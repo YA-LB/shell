@@ -1,5 +1,6 @@
 #! /bin/bash
-
+#简单求和
+#author：leib
 SUM=0
 I=0
 
